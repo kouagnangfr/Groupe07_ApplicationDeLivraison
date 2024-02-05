@@ -1,4 +1,4 @@
-# Groupe7_ApplicationDeLivraison
+# Groupe07_ApplicationDeLivraison
 Application web pour la livraison des repas
 
 ## Noms des membres DU GROUPE
